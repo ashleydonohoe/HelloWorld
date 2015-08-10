@@ -12,6 +12,8 @@
 		E00837DE1B6B3A8200580D96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E00837DC1B6B3A8200580D96 /* Main.storyboard */; };
 		E00837E01B6B3A8200580D96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E00837DF1B6B3A8200580D96 /* Assets.xcassets */; };
 		E00837E31B6B3A8200580D96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E00837E11B6B3A8200580D96 /* LaunchScreen.storyboard */; };
+		E0892A631B6C90DA000EBFFD /* 230534_19046997576_3856_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0892A621B6C90DA000EBFFD /* 230534_19046997576_3856_n.jpg */; };
+		E0892A651B6C90F8000EBFFD /* 1e8043cc-3682-4ea7-919d-2b5d71e66f00.png in Resources */ = {isa = PBXBuildFile; fileRef = E0892A641B6C90F8000EBFFD /* 1e8043cc-3682-4ea7-919d-2b5d71e66f00.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		E00837DF1B6B3A8200580D96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E00837E21B6B3A8200580D96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E00837E41B6B3A8200580D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0892A621B6C90DA000EBFFD /* 230534_19046997576_3856_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 230534_19046997576_3856_n.jpg; sourceTree = "<group>"; };
+		E0892A641B6C90F8000EBFFD /* 1e8043cc-3682-4ea7-919d-2b5d71e66f00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1e8043cc-3682-4ea7-919d-2b5d71e66f00.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				E00837D81B6B3A8200580D96 /* AppDelegate.swift */,
 				E00837DA1B6B3A8200580D96 /* ViewController.swift */,
 				E00837DC1B6B3A8200580D96 /* Main.storyboard */,
+				E0892A641B6C90F8000EBFFD /* 1e8043cc-3682-4ea7-919d-2b5d71e66f00.png */,
+				E0892A621B6C90DA000EBFFD /* 230534_19046997576_3856_n.jpg */,
 				E00837DF1B6B3A8200580D96 /* Assets.xcassets */,
 				E00837E11B6B3A8200580D96 /* LaunchScreen.storyboard */,
 				E00837E41B6B3A8200580D96 /* Info.plist */,
@@ -122,6 +128,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E00837E31B6B3A8200580D96 /* LaunchScreen.storyboard in Resources */,
+				E0892A631B6C90DA000EBFFD /* 230534_19046997576_3856_n.jpg in Resources */,
+				E0892A651B6C90F8000EBFFD /* 1e8043cc-3682-4ea7-919d-2b5d71e66f00.png in Resources */,
 				E00837E01B6B3A8200580D96 /* Assets.xcassets in Resources */,
 				E00837DE1B6B3A8200580D96 /* Main.storyboard in Resources */,
 			);
@@ -283,6 +291,7 @@
 				E00837E91B6B3A8200580D96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
